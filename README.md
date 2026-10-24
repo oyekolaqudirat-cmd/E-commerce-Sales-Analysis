@@ -336,4 +336,4 @@ e-commerce-data-analysis/
 ```
 
 ## 11. Python Code
-
+[View the Complete Analysis Notebook](https://github.com/oyekolaqudirat-cmd/E-commerce-Sales-Analysis/blob/main/Sales_Project.ipynb)
